@@ -5,3 +5,4 @@ cd reddy
 touch iaminsidereddy
 cd ..
 echo "created directories and files"
+wget http://mirrors.wuchna.com/apachemirror/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.zip
